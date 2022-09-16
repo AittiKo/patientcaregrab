@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "axios": "^0.17.1",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "chartist": "^0.10.1",
     "es6-promise": "^4.1.1",
     "firebase": "^4.6.1",
